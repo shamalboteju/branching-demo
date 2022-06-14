@@ -1,2 +1,2 @@
 # branching-demo
-project contributor: Kathleen
+project contributor: Kathleen L
